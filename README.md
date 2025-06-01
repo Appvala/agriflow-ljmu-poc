@@ -102,7 +102,7 @@ This PoC is shared for academic and non-commercial research purposes under the [
 
 ## 🧾 Citation
   
-> [https://github.com/your-username/agriflow-ljmu-poc](#)
+> [https://github.com/Appvala/agriflow-ljmu-poc](#)
 
 ---
 
