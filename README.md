@@ -4,9 +4,12 @@ _Developed during the LJMU MSc Immersion Program, May 2025_
 AgriFlow is a proof-of-concept (PoC) mobile application designed to tackle water scarcity in agriculture using AI. This prototype was developed collaboratively during the **Liverpool John Moores University (LJMU) Immersion Program**, aligning with **SDG 6 – Clean Water & Sanitation** and **SDG 2 – Zero Hunger**.
 
 ---
-## Screenshots:
+
+## 🧪 Prototype Snapshots
 
 <table> <tr> <td><img src="https://github.com/user-attachments/assets/97828564-5eb0-4c8e-951c-4d7dd660eee1" width="250"/></td> <td><img src="https://github.com/user-attachments/assets/047e637b-13c7-4395-9609-702d8c682d9c" width="250"/></td> <td><img src="https://github.com/user-attachments/assets/6cbb9657-88f3-43f8-a7d5-b67dc8b0c9a3" width="250"/></td> </tr> </table>
+
+---
 
 ## 🧭 Background
 
@@ -47,13 +50,6 @@ All data usage complies with ethical standards, including:
 - 🌿 Crop-switch alerts mid-season  
 - 🌐 Interactive UI for low-literacy environments  
 - 🚜 Localised adaptation based on zone-specific rainfall patterns
-
----
-
-## 🧪 Prototype Snapshots
-
-![AgriFlow Dashboard Screenshot](assets/dashboard.png)  
-*Interactive crop risk forecast interface.*
 
 ---
 
