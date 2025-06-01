@@ -4,6 +4,54 @@ _Developed during the LJMU MSc Immersion Program, May 2025_
 AgriFlow is a proof-of-concept (PoC) mobile application designed to tackle water scarcity in agriculture using AI. This prototype was developed collaboratively during the **Liverpool John Moores University (LJMU) Immersion Program**, aligning with **SDG 6 – Clean Water & Sanitation** and **SDG 2 – Zero Hunger**.
 
 ---
+## Screenshots:
+
+![Screenshot_20250430_080659](https://github.com/user-attachments/assets/18d0693c-73e4-4396-b75b-21908db70a34)
+![Screenshot_20250430_075642](https://github.com/user-attachments/assets/06aef9a4-280d-4d25-b64e-0ed0e42b469c)
+![Screenshot_20250430_075631](https://github.com/user-attachments/assets/97828564-5eb0-4c8e-951c-4d7dd660eee1)
+![Screenshot_20250430_075617](https://github.com/user-attachments/assets/047e637b-13c7-4395-9609-702d8c682d9c)
+![Screenshot_20250430_075604](https://github.com/user-attachments/assets/6cbb9657-88f3-43f8-a7d5-b67dc8b0c9a3)
+
+
+## Folder Structure:
+agriflow-ljmu-poc/
+├── lib/
+│   ├── main.dart
+│
+│   ├── models/
+│   │   ├── recommendation_response.dart
+│   │   └── switch_plan.dart
+│
+│   ├── screens/
+│   │   ├── alerts_screen.dart
+│   │   ├── dashboard_screen.dart
+│   │   ├── display_results_screen.dart
+│   │   ├── edit_profile_screen.dart
+│   │   ├── home_screen.dart
+│   │   ├── recommendations_screen.dart
+│   │   ├── settings_screen.dart
+│   │   └── submission_screen.dart
+│
+│   ├── services/
+│   │   └── data_service.dart
+│
+│   ├── utils/
+│   │   └── constants.dart
+│
+│   └── widgets/
+│       ├── alert_card.dart
+│       ├── crop_card.dart
+│       ├── switch_plan_card.dart
+│       └── water_card.dart
+│
+├── assets/
+│   ├── dashboard.png
+│   ├── alert_mock.png
+│   └── recommendation_flow.png
+│
+├── pubspec.yaml
+├── README.md
+└── LICENSE
 
 ## 🧭 Background
 
