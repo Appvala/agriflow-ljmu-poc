@@ -6,14 +6,7 @@ AgriFlow is a proof-of-concept (PoC) mobile application designed to tackle water
 ---
 ## Screenshots:
 
- ![Screenshot_20250430_075642](https://github.com/user-attachments/assets/06aef9a4-280d-4d25-b64e-0ed0e42b469c) ![Screenshot_20250430_075631](https://github.com/user-attachments/assets/97828564-5eb0-4c8e-951c-4d7dd660eee1) ![Screenshot_20250430_075617](https://github.com/user-attachments/assets/047e637b-13c7-4395-9609-702d8c682d9c) ![Screenshot_20250430_075604](https://github.com/user-attachments/assets/6cbb9657-88f3-43f8-a7d5-b67dc8b0c9a3)
-
-  <tr>
-    <td><img src="![Screenshot_20250430_080659](https://github.com/user-attachments/assets/18d0693c-73e4-4396-b75b-21908db70a34)" width="250"/></td>
-    <td><img src="assets/alert_mock.png" width="250"/></td>
-    <td><img src="assets/recommendation_flow.png" width="250"/></td>
-  </tr>
-</table>
+<table> <tr> <td><img src="https://github.com/user-attachments/assets/18d0693c-73e4-4396-b75b-21908db70a34" width="250"/></td> <td><img src="https://github.com/user-attachments/assets/06aef9a4-280d-4d25-b64e-0ed0e42b469c" width="250"/></td> <td><img src="https://github.com/user-attachments/assets/97828564-5eb0-4c8e-951c-4d7dd660eee1" width="250"/></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/047e637b-13c7-4395-9609-702d8c682d9c" width="250"/></td> <td><img src="https://github.com/user-attachments/assets/6cbb9657-88f3-43f8-a7d5-b67dc8b0c9a3" width="250"/></td> <td><img src="assets/alert_mock.png" width="250"/></td> </tr> </table>
 
 ## 🧭 Background
 
